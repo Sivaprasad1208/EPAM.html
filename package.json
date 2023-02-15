@@ -1,0 +1,19 @@
+{
+  "name": "epam.html-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JavaScript demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sivaprasad1208/EPAM.html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sivaprasad1208/EPAM.html/issues"
+  },
+  "homepage": "https://github.com/Sivaprasad1208/EPAM.html#readme"
+}
